@@ -256,18 +256,3 @@ int main()
         return (1);
     }
 }
-
-
-
-
-
-
-
-
-/*Feedback:
-
-Lines: 78, 105, 161, 174, 180, 207
-Case 7: There's a hierarchy of wrong data. Invalid data for ANY input must be addressed before data that results in a "No" response
-    An invalid height should be addressed before a weight 0 < x < 110...
-    RIP
-*/
